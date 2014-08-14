@@ -1,0 +1,102 @@
+<poster>my playlist</poster>
+<fanart>http://viola.bz/wp-content/uploads/2011/11/Collage-of-movie-posters-by-American-artist-Drew-Struzan.jpg</fanart>
+<thumbnail></thumbnail>
+
+<message>[COLOR darkred][B]                    *****-----Simon's STUFF-----*****                    [/B][/COLOR]</message>
+
+<items>
+
+<title>[B][COLOR yellow]THE SIMPSONS 24/7[/COLOR][/B]</title>
+<thumbnail>http://cdn.hitfix.com/photos/148718/the_simpsons_event_main.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502 live=1 timeout=10</link>
+
+<title>[B][COLOR green]OZ 24/7[/COLOR][/B]</title>
+<thumbnail>http://www.jumpedtheshark.co.uk/wp-content/uploads/2011/08/oz1-300x225.jpg</thumbnail>
+<link>rtmp://$OPT:rtmp-raw=rtmp://198.27.75.99/app playpath=oz02 </link>
+
+<title>[B][COLOR orange]The X-Files 24/7[/COLOR][/B]</title>
+<thumbnail>http://bfgb.files.wordpress.com/2013/12/x_files.jpg</thumbnail>
+<link>rtmp://$OPT:rtmp-raw=rtmp://198.27.74.25/app playpath=xfiles02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?xfiles01</link>
+
+<title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
+<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<link>rtmp://89.248.169.48:443/liverepeater playpath=66 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH</link>
+
+<title>[B][COLOR white]Sky Sports 2[/COLOR][/B]</title>
+<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<link>rtmp://89.248.169.48:443/liverepeater playpath=67 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH</link>
+
+<title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
+<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<link>rtmpe://46.246.124.26:1935/redirect/janu3 swfUrl=http://player.hdcast.org/player.swf token=#yw%tt#w@kku live=1 timeout=14 swfVfy=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=janu3</link>
+
+<title>[B][COLOR red]Sky Sports 4[/COLOR][/B]</title>
+<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<link>rtmp://195.154.220.115:1935/private/sky42014</link>
+
+<title>[B][COLOR white]Sky Sports News[/COLOR][/B]</title>
+<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=sn swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+
+<title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
+<thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
+<link>rtmp://195.154.220.115:1935/private/bt12014 #EXTINF:0,</link>
+
+<title>[B][COLOR red]BT Sport 2[/COLOR][/B]</title>
+<thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
+<link>rtmp://195.154.220.115:1935/private/bt22014</link>
+
+<title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/180px-BoxNation_logo.jpg</thumbnail>
+<link>rtmp://195.154.220.115:1935/private/boxnation</link>
+
+<title>[B][COLOR blue]At The Races[/COLOR][/B]</title>
+<thumbnail>http://www.greatyarmouth-racecourse.co.uk/_images/racinghome/ATR-logo.jpg</thumbnail>
+<link>rtmp://89.248.174.51:443/liverepeater playpath=8 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=1&width=640&height=460 live=1 token=#atd%#$ZH</link>
+
+<title>[B][COLOR red]MUTV[/COLOR][/B]</title>
+<thumbnail>http://b.vimeocdn.com/ts/171/577/171577559_640.jpg</thumbnail>
+<link>rtmp://89.248.169.48:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=73&width=640&height=460 token=#atd%#$ZH</link>
+
+<title>[B][COLOR white]EuroSport HD[/COLOR][/B]</title>
+<thumbnail>http://files.bcpraha.sk/200002042-3634138280/500px-Eurosport_HD.png</thumbnail>
+<link>rtmp://31.220.0.82:1935/live playpath=e1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+
+<title>[B][COLOR blue]EuroSport 2 HD[COLOR][/B]</title>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20101221230021/logopedia/images/thumb/4/4e/Eurosport_2_HD.png/320px-Eurosport_2_HD.png</thumbnail>
+<link>rtmp://31.220.0.82:1935/live playpath=e2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+
+<title>[B][COLOR forestgreen]The Hobbit - An unexpected Journey[/COLOR][/B]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX214_AL_.jpg</thumbnail>
+<link>http://180upload.com/74d137pkftye</link>
+
+<title>[B][COLOR forestgreen]The Hobbit - the Desolation of Smaug[/COLOR][/B]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<link>http://180upload.com/m758x15rzfyd</link>
+
+<title>[B][COLOR blue]Back to the Future[/COLOR][/B]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA5NTYzMDMyM15BMl5BanBnXkFtZTgwNjU3NDU2MTE@._V1_SX214_AL_.jpg</thumbnail>
+<link>http://180upload.com/5yyx8qmf6hcv</link>
+
+<title>[B][COLOR darkkhaki]Robocop[/COLOR][/B]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk1MDUzMTQ3OV5BMl5BanBnXkFtZTcwMDAwNTk0NA@@._V1_SX214_AL_.jpg</thumbnail>
+<link>http://billionuploads.com/95f95i71ih45</link>
+
+<title>[B][COLOR darkkhaki]The Terminator[/COLOR][/B]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BODE1MDczNTUxOV5BMl5BanBnXkFtZTcwMTA0NDQyNA@@._V1_SX214_AL_.jpg</thumbnail>
+<link>http://billionuploads.com/rge3v16f0e3n</link>
+
+<title>[B][COLOR mediumvioletred]The Expendables[/COLOR][/B]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_SX214_AL_.jpg</thumbnail>
+<link>http://billionuploads.com/g7v90bn6yitu</link>
+
+<title>[B][COLOR mediumvioletred]The Expendables 2[/COLOR][/B]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQzODkwNDQxNV5BMl5BanBnXkFtZTcwNTQ1ODAxOA@@._V1_SX214_AL_.jpg</thumbnail>
+<link>http://180upload.com/d0be16pytm8c</link>
+
+<title>[B][COLOR mediumvioletred]The Expendables 3[/COLOR][/B]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_SX214_AL_.jpg</thumbnail>
+<link>http://billionuploads.com/zgkk0xzzi9xb</link>
+
+</items>
