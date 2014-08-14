@@ -37,7 +37,7 @@
 
 <title>[B][COLOR white]Sky Sports News[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=sn swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+<link>rtmp://31.220.0.82:1935/live playpath=sn swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
