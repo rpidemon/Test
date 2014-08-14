@@ -5,5 +5,6 @@ MAIN
 <thumbnail></thumbnail>
 
 <name>[B][COLOR hotpink]Movies for Tia[/COLOR][/B]</name>
-<thumbnails></thumbnails>
+<POSTER>Disney Movies</POSTER>
+<fanart>http://is.gd/dYMi9G</fanart>
 <link>https://raw.githubusercontent.com/rpidemon/Test/master/Tia's%20Movies.xml</link>
