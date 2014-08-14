@@ -4,14 +4,14 @@ MAIN
 <fanart>http://wiki.xbmc.org/images/9/99/XBMC_wallpaper_by_unknown_2.jpg</fanart>
 <thumbnail></thumbnail>
 
-<name>[COLOR pink][B]Donna Maries Stuff[/B][/COLOR]</name>
+<name>[B][COLOR pink]Donna Maries Stuff[/COLOR][/B]</name>
 <thumbnail>http://kznlanguageinstitute.com/wp-content/uploads/2014/07/black-lion-wallpaper-desktop.jpg</thumbnail>
-<link></link>https://raw.githubusercontent.com/rpidemon/Test/master/Donna%20Marie's%20Stuff.xml</link>
+<link>https://raw.githubusercontent.com/rpidemon/Test/master/Donna%20Marie's%20Stuff.xml</link>
 
 <name>[B][COLOR hotpink]Movies for Tia[/COLOR][/B]</name>
 <thumbnail>http://is.gd/dYMi9G</thumbnail>
 <link>https://raw.githubusercontent.com/rpidemon/Test/master/Tia's%20Movies.xml</link>
 
 <name>[B][COLOR coral]24/7[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>http://www.clickview.co.uk/Media/Default/images/CV-24-7-Cloud-PIC.png</thumbnail>
 <link>https://raw.githubusercontent.com/rpidemon/Test/master/24-7.xml</link>
