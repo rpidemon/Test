@@ -13,11 +13,11 @@
 
 <title>[B][COLOR green]OZ 24/7[/COLOR][/B]</title>
 <thumbnail>http://www.jumpedtheshark.co.uk/wp-content/uploads/2011/08/oz1-300x225.jpg</thumbnail>
-<link>rtmp://$OPT:rtmp-raw=rtmp://198.27.75.99/app playpath=oz02 </link>
+<link>rtmp://198.27.75.99/app playpath=oz02 </link>
 
 <title>[B][COLOR orange]The X-Files 24/7[/COLOR][/B]</title>
 <thumbnail>http://bfgb.files.wordpress.com/2013/12/x_files.jpg</thumbnail>
-<link>rtmp://$OPT:rtmp-raw=rtmp://198.27.74.25/app playpath=xfiles02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?xfiles01</link>
+<link>rtmp://198.27.74.25/app playpath=xfiles02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?xfiles01</link>
 
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
