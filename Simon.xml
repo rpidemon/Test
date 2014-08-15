@@ -41,11 +41,11 @@
 
 <title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
-<link>rtmp://195.154.220.115:1935/private/bt12014 #EXTINF:0,</link>
+<link>rtmpe://89.248.172.52/live/btsport1fifaembed pageUrl=http://www.dcast.tv/</link>
 
 <title>[B][COLOR red]BT Sport 2[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
-<link>rtmp://195.154.220.115:1935/private/bt22014</link>
+<link>rtmpe://89.248.172.52/live/btsport2fifaembed pageUrl=http://www.dcast.tv/</link>
 
 <title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/180px-BoxNation_logo.jpg</thumbnail>
