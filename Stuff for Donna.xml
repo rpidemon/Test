@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[B][COLOR seagreen]Vevo Music[/COLOR][/B]</title>
+<title>[B][COLOR orange]Vevo Music[/COLOR][/B]</title>
 <thumbnail>http://ronnydaemusic.com/wp-content/uploads/2014/06/VEVO.jpg</thumbnail>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
 </item>
@@ -29,9 +29,9 @@
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
-<link></link>
+<title>[B][COLOR blue]Clubland TV[/COLOR][/B]</title>
+<thumbnail>http://www.creativespark.co.uk/wp-content/uploads/Clubland_TV_Identity_06-940x664.jpg</thumbnail>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
 </item>
 
 <item>
