@@ -5,9 +5,15 @@
 <message>[COLOR pink][B]     *****-----XxXxX Tia's STUFF XxXxX-----*****     [/B][/COLOR]</message>
 
 <item>
-<title>[B][COLOR orange]Disney JNR[/COLOR][/B]</title>
+<title>[B][COLOR green]Disney JNR[/COLOR][/B]</title>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20120829205926/disney/images/4/46/A_Cars_Toon_Disney_Jr.jpg</thumbnail>
 <link>rtmp://109.200.202.124/live/animax</link>
+</item>
+
+<item>
+<title>[COLOR orange][B]Nickelodeon[/B][/COLOR]</title>
+<thumbnail>http://id-cube.com/wp-content/uploads/2013/12/nickelodeon-logo-226464.jpg</thumbnail>
+<link>http://91.240.87.34:4015/udp/224.200.202.40:1234</link>
 </item>
 
 <item>
