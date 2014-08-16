@@ -29,30 +29,23 @@
 
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>http://sipragezabava.com/live/suksport3</link>
+<link>rtmp://94.102.56.235:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf  live=1 pageUrl=http://filotv.pw/player2.php?id=44&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR red]Sky Sports 4[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>http://sipragezabava.com/live/saksport4</link>
+<link>rtmp://89.248.174.51:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=45&width=640&height=460 token=#atd%#$ZH<link>
 
-<title>[B][COLOR white]Sky Sports News[/COLOR][/B]</title>
+<title>[B][COLOR white]Sky Sports 5[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>rtmp://31.220.0.82:1935/live playpath=sn swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+<link>rtmp://80.82.64.90:443/liverepeater playpath=124 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=124&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
-<link>
-<sublink>rtmpe://89.248.172.52/live/btsport1fifaembed pageUrl=http://www.dcast.tv/</sublink>
-<sublink>http://sipragezabava.com/live/bitsport1</sublink>
-<sublink>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/39.ch</sublink>
-</link>
+<link>rtmp://89.248.171.97:443/liverepeater playpath=77 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=77&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR red]BT Sport 2[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
-<link>
-<sublink>rtmpe://89.248.172.52/live/btsport2fifaembed pageUrl=http://www.dcast.tv/</sublink>
-<sublink>http://sipragezabava.com/live/botsport2</sublink>
-</link>
+<link>rtmp://89.248.171.97:443/liverepeater playpath=72 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=72&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/180px-BoxNation_logo.jpg</thumbnail>
@@ -74,9 +67,15 @@
 <thumbnail>http://img3.wikia.nocookie.net/__cb20101221230021/logopedia/images/thumb/4/4e/Eurosport_2_HD.png/320px-Eurosport_2_HD.png</thumbnail>
 <link>rtmp://31.220.0.82:1935/live playpath=e2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
 
+<title>[B][COLOR cyan]Racing UK[/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<link>rtmp://80.82.78.38:443/liverepeater playpath=8 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=8&width=640&height=460 token=#atd%#$ZH</link>
+
 <title>[B][COLOR darkorchid]BEIN Sports 1[/COLOR][/B]</title>
 <thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
 <link>rtmpe://46.246.124.27:1935/live/365live-tv-b1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
+
+
 
 <title>[B][COLOR darkorchid]BEIN Sports 2[/COLOR][/B]</title>
 <thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
