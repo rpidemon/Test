@@ -19,7 +19,10 @@
 <item>
 <title>[B][COLOR yellow]Cartoon Network[/COLOR][/B]</title>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20130504100830/marvel_dc/images/8/8d/Cartoon_Network_logo.JPG</thumbnail>
-<link>http://80.77.52.6:4022/udp/230.0.3.15:12345</link>
+<link>
+<sublink>http://80.77.52.6:4022/udp/230.0.3.15:12345</sublink>
+<sublink>http://61.93.247.210:80/hls/cartoon/cartoon.m3u8</sublink>  
+</link>
 </item>
 
 <item>
