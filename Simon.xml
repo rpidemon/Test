@@ -23,9 +23,13 @@
 <thumbnail>http://img4.wikia.nocookie.net/__cb20091126085356/logopedia/images/e/e8/Animal_Planet_HD_2007.png</thumbnail>
 <link>http://80.77.52.6:4022/udp/230.0.3.18:12345</link>
 
-<title>[B][COLOR royalblue]Discovery[/COLOR][/B]</title>
+<title>[B][COLOR royalblue]Discovery HD[/COLOR][/B]</title>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 <link>http://80.77.52.6:4022/udp/230.0.3.17:12345</link>
+
+<title>[B][COLOR salmon]National Geographic HD[/COLOR][/B]</title>
+<thumbnail>http://thecuttingroom.com/wp-content/uploads/2012/07/national-geographic-channel-logo.jpeg</thumbnail>
+<link>http://61.93.247.210:80/hls/natgeo/natgeo.m3u8</link>
 
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
