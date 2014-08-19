@@ -33,7 +33,7 @@
 
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</link>
+<link>rtmp://31.220.0.104:1935/live/sskk1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR white]Sky Sports 2[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
