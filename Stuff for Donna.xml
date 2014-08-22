@@ -46,9 +46,11 @@
 <link>rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream</link>
 </item>
 
-<item>Geordie Shore Season 8</item>
+<item>
+<title>Geordie Shore Season 8</title>
 <thumbnail>http://mtvbase-com.mtvnimages.com/MTVonDStv/Images/shows/geordieshore-main-281x211.jpg?height=211</thumbnail>
 <link>https://raw.githubusercontent.com/rpidemon/Test/master/Geordie%20Shores.xml</link>
+</item>
 
 <item>
 <title>[B][COLOR hotpink]Geordie Shores SE8EO1[/COLOR][/B]</title>
