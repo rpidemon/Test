@@ -31,6 +31,10 @@
 <thumbnail>http://thecuttingroom.com/wp-content/uploads/2012/07/national-geographic-channel-logo.jpeg</thumbnail>
 <link>http://61.93.247.210:80/hls/natgeo/natgeo.m3u8</link>
 
+<title>[B][COLOR red]BIO[/COLOR][/B]</title>
+<thumbnail>http://www.limetv.com/images/channel-logos/biography-logo.jpg</thumbnail>
+<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c</link>
+
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
 <link>rtmp://31.220.0.104:1935/live/sskk1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</link>
