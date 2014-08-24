@@ -133,12 +133,11 @@
 
 <title>[B][COLOR darkorchid]BEIN Sports 11[/COLOR][/B]</title>
 <thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b11 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
-</link>
+<link> rtmp://89.248.169.48:443/liverepeater playpath=31 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player2.php?id=8&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR darkorchid]BEIN Sports 12[/COLOR][/B]</title>
 <thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b12 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
+<link>rtmp://89.248.169.48:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player2.php?id=8&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR darkorchid]BEIN Sports 13[/COLOR][/B]</title>
 <thumbnail></thumbnail>
