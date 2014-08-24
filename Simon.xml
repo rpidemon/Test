@@ -77,7 +77,7 @@
 
 <title>[B][COLOR white]EuroSport HD[/COLOR][/B]</title>
 <thumbnail>http://files.bcpraha.sk/200002042-3634138280/500px-Eurosport_HD.png</thumbnail>
-<link>rtmp://31.220.0.82:1935/live playpath=e1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/eurs1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR blue]EuroSport 2 HD[COLOR][/B]</title>
 <thumbnail>http://img3.wikia.nocookie.net/__cb20101221230021/logopedia/images/thumb/4/4e/Eurosport_2_HD.png/320px-Eurosport_2_HD.png</thumbnail>
