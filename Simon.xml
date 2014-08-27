@@ -45,7 +45,7 @@
 
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>http://tv.brownbeartech.co.uk:8001/1:0:1:516:D:F020:FFFF0000:0:0:0:</link>
+<link>rtmp://89.248.171.97:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=36&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR red]Sky Sports 4[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
@@ -65,11 +65,11 @@
 
 <title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/180px-BoxNation_logo.jpg</thumbnail>
-<link>http://tv.brownbeartech.co.uk:8001/1:0:1:200:5:F020:FFFF0000:0:0:0:</link>
+<link>rtmp://89.248.171.97:443/liverepeater playpath=38 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=38&width=640&height=460 token=#atd%#$ZH</link>
 
-<title>[B][COLOR blue]At The Races[/COLOR][/B]</title>
+<title>[B][COLOR blue]Racing UK[/COLOR][/B]</title>
 <thumbnail>http://www.greatyarmouth-racecourse.co.uk/_images/racinghome/ATR-logo.jpg</thumbnail>
-<link>http://tv.brownbeartech.co.uk:8001/1:0:1:7D1:14:F020:FFFF0000:0:0:0:</link>
+<link>rtmp://89.248.171.97:443/liverepeater playpath=7 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=36&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR red]MUTV[/COLOR][/B]</title>
 <thumbnail>http://b.vimeocdn.com/ts/171/577/171577559_640.jpg</thumbnail>
@@ -77,7 +77,7 @@
 
 <title>[B][COLOR white]EuroSport HD[/COLOR][/B]</title>
 <thumbnail>http://files.bcpraha.sk/200002042-3634138280/500px-Eurosport_HD.png</thumbnail>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/eurs1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</link>
+<link>rtmp://31.220.0.104:1935/live/eurs1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR blue]EuroSport 2 HD[COLOR][/B]</title>
 <thumbnail>http://img3.wikia.nocookie.net/__cb20101221230021/logopedia/images/thumb/4/4e/Eurosport_2_HD.png/320px-Eurosport_2_HD.png</thumbnail>
@@ -85,71 +85,19 @@
 
 <title>[B][COLOR orange]FOX Sports 1[/COLOR][/B]</title>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/07/fox-sports-1-logo.jpg</thumbnail>
-<link>http://188.142.76.198:4022/udp/233.81.233.65:10102</link>
+<link>rtmpe://209.95.34.62:1935/live playpath=sfox1 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
 
 <title>[B][COLOR orange]FOX Sports 2[/COLOR][/B]</title>
 <thumbnail>http://auvaromaia.com/wp-content/uploads/2014/01/foxsports21.jpg</thumbnail>
-<link>rtmp://31.220.0.104:1935/live/f2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 1[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 2[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 3[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 4[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 5[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 6[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b6 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 7[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b7 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 8[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b8 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 9[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b9 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 10[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b10 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
+<link>rtmpe://209.95.34.62:1935/live playpath=sfox2 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
 
 <title>[B][COLOR darkorchid]BEIN Sports 11[/COLOR][/B]</title>
 <thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link> rtmp://89.248.169.48:443/liverepeater playpath=31 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player2.php?id=8&width=640&height=460 token=#atd%#$ZH</link>
+<link>http://q9r.me/fsr3</link>
 
 <title>[B][COLOR darkorchid]BEIN Sports 12[/COLOR][/B]</title>
 <thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmp://89.248.169.48:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player2.php?id=8&width=640&height=460 token=#atd%#$ZH</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 13[/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b13 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 14[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b14 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
-
-<title>[B][COLOR darkorchid]BEIN Sports 15[/COLOR][/B]</title>
-<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://46.246.124.27:1935/live/365live-tv-b15 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
+<link>rtmp://89.248.171.97:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=32&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR forestgreen]The Hobbit - An unexpected Journey[/COLOR][/B]</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX214_AL_.jpg</thumbnail>
