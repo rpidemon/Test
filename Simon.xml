@@ -45,7 +45,7 @@
 
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>rtmp://94.102.56.235:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf  live=1 pageUrl=http://filotv.pw/player2.php?id=44&width=640&height=460 token=#atd%#$ZH</link>
+<link>http://tv.brownbeartech.co.uk:8001/1:0:1:516:D:F020:FFFF0000:0:0:0:</link>
 
 <title>[B][COLOR red]Sky Sports 4[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
@@ -57,23 +57,23 @@
 
 <title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
-<link>rtmp://89.248.171.97:443/liverepeater playpath=77 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=77&width=640&height=460 token=#atd%#$ZH</link>
+<link>http://tv.brownbeartech.co.uk:8001/1:0:1:2C3:7:F020:FFFF0000:0:0:0:</link>
 
 <title>[B][COLOR red]BT Sport 2[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
-<link>rtmp://89.248.171.97:443/liverepeater playpath=72 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=72&width=640&height=460 token=#atd%#$ZH</link>
+<link>http://tv.brownbeartech.co.uk:8001/1:0:1:2C8:7:F020:FFFF0000:0:0:0:</link>
 
 <title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/180px-BoxNation_logo.jpg</thumbnail>
-<link>rtmp://195.154.220.115:1935/private/boxnation</link>
+<link>http://tv.brownbeartech.co.uk:8001/1:0:1:200:5:F020:FFFF0000:0:0:0:</link>
 
 <title>[B][COLOR blue]At The Races[/COLOR][/B]</title>
 <thumbnail>http://www.greatyarmouth-racecourse.co.uk/_images/racinghome/ATR-logo.jpg</thumbnail>
-<link>rtmp://89.248.174.51:443/liverepeater playpath=8 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=1&width=640&height=460 live=1 token=#atd%#$ZH</link>
+<link>http://tv.brownbeartech.co.uk:8001/1:0:1:7D1:14:F020:FFFF0000:0:0:0:</link>
 
 <title>[B][COLOR red]MUTV[/COLOR][/B]</title>
 <thumbnail>http://b.vimeocdn.com/ts/171/577/171577559_640.jpg</thumbnail>
-<link>rtmp://89.248.169.48:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=73&width=640&height=460 token=#atd%#$ZH</link>
+<link>http://tv.brownbeartech.co.uk:8001/1:0:1:2BD:7:F020:FFFF0000:0:0:0:</link>
 
 <title>[B][COLOR white]EuroSport HD[/COLOR][/B]</title>
 <thumbnail>http://files.bcpraha.sk/200002042-3634138280/500px-Eurosport_HD.png</thumbnail>
