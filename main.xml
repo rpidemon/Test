@@ -23,3 +23,7 @@ MAIN
 <name>[COLOR royalblue][B]2014 Cinema Club[/COLOR][/B]</name>
 <thumbanail>http://perfectedprose.com/wp-content/uploads/2014/02/DirectorsChair.jpg</thumbanail>
 <link>https://raw.githubusercontent.com/rpidemon/Test/master/Cinema%20Club.xml</link>
+
+<name>[COLOR lightgoldenrodyellow][B]Live TV[/B][/COLOR]</name>
+<thumbnail>http://www.gielniak.com/img/mytv.png</thumbnail>
+<link>https://raw.githubusercontent.com/rpidemon/Test/master/TV.xml</link>
