@@ -96,13 +96,21 @@
 
 <item><title>Disney XD</title>
 <thumbnail>http://www.disneymovieslist.com/blog/wp-content/uploads/2012/10/disneyxd.jpeg</thumbnail>
-<link>http://iptv4.me:4321/juniorxd-plus</link>
+<link>http://iptv4.me:4321/disneych1</link>
+</item>
+
+<item><title>[COLOR lightblue][B]Boomerang[/B][/COLOR]</title>
+<thumbnail>http://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/boomerang_us_left_logo.jpg</thumbnail>
+<link>http://95.155.243.245:8001/1:0:1:F0A:17:56:300000:0:0:0:</link>
 </item>
 
 <item>
 <title>[COLOR orange][B]Nickelodeon[/B][/COLOR]</title>
 <thumbnail>http://id-cube.com/wp-content/uploads/2013/12/nickelodeon-logo-226464.jpg</thumbnail>
-<link>http://91.240.87.34:4015/udp/224.200.202.40:1234</link>
+<link><sublink>http://91.240.87.34:4015/udp/224.200.202.40:1234</sublink>
+<sublink>http://77.243.187.53:8844/udp/239.100.0.121:3001</sublink>  
+<sublink>http://77.243.187.53:8844/udp/239.102.0.121:3001</sublink>
+</link>
 </item>
 
 <item>
@@ -160,7 +168,9 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <title>[B][COLOR white]Sky Sports 5[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
 <link><sublink>rtmp://31.220.0.104:1935/live/sskk5 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</sublink>
-<sublink>http://iptv4.me:4321/skysp5</sublink>  
+<sublink>http://iptv4.me:4321/skysp5</sublink>
+<sublink>rtmpe://162.219.178.154/live playpath=skysports5fifaembed pageUrl=http://www.dcast.tv/loboicaperucita</sublink>
+<sublink>rtmp-raw=rtmpe://209.95.34.58:1935/live playpath=sskys5 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</sublink>
 </link>
 
 <title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
@@ -208,7 +218,7 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <link>rtmp://89.248.171.97:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=32&width=640&height=460 token=#atd%#$ZH</link>
 </items>
 
-<message>[COLOR darkpink][B]*-*-*-*-*24/7 TV Shows*-*-*-*-*[/B][/COLOR]</message>
+<info>[COLOR lightgreen][B]*-*-*-*-*24/7 TV Shows*-*-*-*-*[/B][/COLOR]</info>
 
 <items>
 <title>[B][COLOR yellow]THE SIMPSONS 24/7[/COLOR][/B]</title>
@@ -219,7 +229,7 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <thumbnail>http://www.jumpedtheshark.co.uk/wp-content/uploads/2011/08/oz1-300x225.jpg</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=oz02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?oz02</link>
 
-<title>[B][COLOR orange]The X-Files 24/7[/COLOR][/B]</title>
+<title>[B][COLOR orange]The X-FILES 24/7[/COLOR][/B]</title>
 <thumbnail>http://bfgb.files.wordpress.com/2013/12/x_files.jpg</thumbnail>
 <link>rtmp://192.99.38.122/app playpath=xfiles02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?xfiles02</link>
 </items>
@@ -247,28 +257,23 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <item>
 <title>[B][COLOR yellow]FUTURAMA[/COLOR][/B]</title>
 <thumbnail>http://fanart.tv/fanart/tv/73871/tvthumb/futurama-4fe54ded27e1f.jpg</thumbnail>
-<fanart></fanart>
 <link>rtmp://198.27.75.99/app playpath=2501 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2501 live=1</link>
 </item>
 
 <items>
-<title>[B][COLOR green]That 70s Show[/COLOR][/B]</title> 
+<title>[B][COLOR green]That 70s SHOW[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/9225520.png"</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?that70sshow live=true</link>
 
-<title>[B][COLOR orange]The Sopranos[/COLOR][/B]</title> 
-<thumbnail></thumbnail>
+<title>[B][COLOR orange]The SOPRANOS[/COLOR][/B]</title> 
+<thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/8444104.png</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?sopranos live=true</link>
 
-<title>[B][COLOR yellow]Walking Dead HD[/COLOR][/B]</title> 
-<thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/1427279.png</thumbnail>
-<link>http://62.210.76.216:8080/hls/walkingdead.m3u8</link>
-
-<title>[B][COLOR green]Two and a Half Men[/COLOR][/B]</title> 
+<title>[B][COLOR yellow]TWO and a HALF MEN[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/6154763.png</thumbnail>
 <link>rtmp://192.99.38.122/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?men02&widthid=600&heightid=450</link>
 
-<title>[B][COLOR orange][/COLOR][/B]</title> 
+<title>[B][COLOR green]WEEDS HD[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/7779502.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/weeds.m3u8</link>
 
@@ -276,11 +281,11 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <thumbnail></thumbnail>
 <link></link>
 
-<title>[B][COLOR green]American dad HD[/COLOR][/B]</title> 
+<title>[B][COLOR orange]AMERICAN DAD HD[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/7255194.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/american.m3u8</link>
 
-<title>[B][COLOR orange]Home Improvement[/COLOR][/B]</title> 
+<title>[B][COLOR yellow]HOME IMPROVMENT[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/7227689.png</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=home01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/</link>
 
@@ -288,23 +293,23 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/4321881.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/familyguy.m3u8</link>
 
-<title>[B][COLOR green]King Of The Hill [/COLOR][/B]</title> 
+<title>[B][COLOR green]KING OF THE HILL[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/4070661.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/kinghill.m3u8</link>
 
-<title>[B][COLOR orange]Game of Thrones HD[/COLOR][/B]</title> 
+<title>[B][COLOR orange]GAME OF THRONES HD[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/1452941.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/got.m3u8</link>
 
-<title>[B][COLOR yellow]Malcolm In The Middle[/COLOR][/B]</title> 
+<title>[B][COLOR yellow]MALCOM IN THE MIDDLE[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/2558536.png</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=malcolm swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?malcolm live=true</link>
 
-<title>[B][COLOR green]Sons of Anarchy HD[/COLOR][/B]</title> 
+<title>[B][COLOR green]SONS of ANARCHY HD[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/3222944.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/soa.m3u8</link>
 
-<title>[B][COLOR orange]South Park HD[/COLOR][/B]</title> 
+<title>[B][COLOR orange]SOUTH PARK HD[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/2787698.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/southpark.m3u8</link>
 
