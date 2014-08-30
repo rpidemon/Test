@@ -199,6 +199,21 @@
 
 <message>[COLOR darkpink][B]*-*-*-*-*24/7 TV Shows*-*-*-*-*[/B][/COLOR]</message>
 
+<items>
+
+<title>[B][COLOR yellow]THE SIMPSONS 24/7[/COLOR][/B]</title>
+<thumbnail>http://cdn.hitfix.com/photos/148718/the_simpsons_event_main.jpg</thumbnail>
+<link>rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502 live=1 timeout=10</link>
+
+<title>[B][COLOR green]OZ 24/7[/COLOR][/B]</title>
+<thumbnail>http://www.jumpedtheshark.co.uk/wp-content/uploads/2011/08/oz1-300x225.jpg</thumbnail>
+<link>rtmp://198.27.75.99/app playpath=oz02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?oz02</link>
+
+<title>[B][COLOR orange]The X-Files 24/7[/COLOR][/B]</title>
+<thumbnail>http://bfgb.files.wordpress.com/2013/12/x_files.jpg</thumbnail>
+<link>rtmp://192.99.38.122/app playpath=xfiles02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?xfiles02</link>
+</items>
+
 <item>
 <title>[B][COLOR aqua]THE KING OF QUEENS[/COLOR][/B]</title>
 <link>rtmp://198.27.74.25/app playpath=koq02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/</link>
