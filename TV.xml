@@ -170,7 +170,7 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <link><sublink>rtmp://31.220.0.104:1935/live/sskk5 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</sublink>
 <sublink>http://iptv4.me:4321/skysp5</sublink>
 <sublink>rtmpe://162.219.178.154/live playpath=skysports5fifaembed pageUrl=http://www.dcast.tv/loboicaperucita</sublink>
-<sublink>rtmp-raw=rtmpe://209.95.34.58:1935/live playpath=sskys5 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</sublink>
+<sublink>rtmpe://209.95.34.58:1935/live playpath=sskys5 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</sublink>
 </link>
 
 <title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
@@ -218,7 +218,7 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <link>rtmp://89.248.171.97:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=32&width=640&height=460 token=#atd%#$ZH</link>
 </items>
 
-<info>[COLOR lightgreen][B]*-*-*-*-*24/7 TV Shows*-*-*-*-*[/B][/COLOR]</info>
+<message>[COLOR lightgreen][B]*-*-*-*-*24/7 TV Shows*-*-*-*-*[/B][/COLOR]</mesaage>
 
 <items>
 <title>[B][COLOR yellow]THE SIMPSONS 24/7[/COLOR][/B]</title>
@@ -289,10 +289,6 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/7227689.png</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=home01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/</link>
 
-<title>[B][COLOR yellow]Family guy HD[/COLOR][/B]</title> 
-<thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/4321881.png</thumbnail>
-<link>http://62.210.76.216:8080/hls/familyguy.m3u8</link>
-
 <title>[B][COLOR green]KING OF THE HILL[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/4070661.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/kinghill.m3u8</link>
@@ -312,6 +308,11 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <title>[B][COLOR orange]SOUTH PARK HD[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/2787698.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/southpark.m3u8</link>
+
+<title>[B][COLOR yellow]FAMILY GUY HD[/COLOR][/B]</title> 
+<thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/4321881.png</thumbnail>
+<link>http://62.210.76.216:8080/hls/familyguy.m3u8</link>
+
 
 <title>[B][COLOR green][/COLOR][/B]</title> 
 <thumbnail></thumbnail>
