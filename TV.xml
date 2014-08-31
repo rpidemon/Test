@@ -218,7 +218,9 @@ rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dca
 <link>rtmp://89.248.171.97:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=32&width=640&height=460 token=#atd%#$ZH</link>
 </items>
 
-<message> [B][COLOR lightgreen]*-*-*-*-*24/7 TV Shows*-*-*-*-*[/COLOR][/B] </mesaage>
+
+<message>[B][COLOR lightgreen]*-*-*-*-*24/7 TV Shows*-*-*-*-*[/COLOR][/B]</mesaage>
+
 
 <items>
 <title>[B][COLOR yellow]THE SIMPSONS 24/7[/COLOR][/B]</title>
