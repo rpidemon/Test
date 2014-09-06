@@ -1,3 +1,8 @@
+<poster>my playlist</poster>
+<fanart>http://www.footy-boots.com/files/2009/08/Break-in-football-boots.jpg</fanart>
+<thumbnail></thumbnail>
+
+
 <message>[COLOR royalblue][B]*-*-*-*-*Sports*-*-*-*-*[/B][/COLOR]</message>
 
 <items>
@@ -46,7 +51,8 @@
 <sublink>rtmp://live.2caster.com/live//thesportszoneeu</sublink>
 <sublink>rtmpe://162.219.178.154/live playpath=skysports5fifaembed pageUrl=http://www.dcast.tv/loboicaperucita</sublink>
 <sublink>rtmpe://209.95.34.58:1935/live playpath=sskys5 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</sublink>
-<sublink>rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live</sublink></link>
+<sublink>rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live</sublink>
+</link>
 
 <title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
