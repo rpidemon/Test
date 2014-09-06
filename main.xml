@@ -16,17 +16,13 @@ MAIN
 <thumbnail>http://viola.bz/wp-content/uploads/2011/11/Collage-of-movie-posters-by-American-artist-Drew-Struzan.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/rpidemon/Test/master/Simon.xml</link>
 
-<name>[B][COLOR coral]24/7[/COLOR][/B]</name>
-<thumbnail>http://www.clickview.co.uk/Media/Default/images/CV-24-7-Cloud-PIC.png</thumbnail>
-<link>https://raw.githubusercontent.com/rpidemon/Test/master/24-7.xml</link>
+<name>[COLOR lightgoldenrodyellow][B]TV Channels[/B][/COLOR]</name>
+<thumbnail>http://www.gielniak.com/img/mytv.png</thumbnail>
+<link>https://raw.githubusercontent.com/rpidemon/Test/master/LiveTV.xml</link>
 
 <name>[COLOR royalblue][B]2014 Cinema Club[/COLOR][/B]</name>
 <thumbanail>http://thumbs.dreamstime.com/z/film-industry-directors-chair-28070559.jpg</thumbanail>
 <link>https://raw.githubusercontent.com/rpidemon/Test/master/Cinema%20Club.xml</link>
-
-<name>[COLOR lightgoldenrodyellow][B]Live TV[/B][/COLOR]</name>
-<thumbnail>http://www.gielniak.com/img/mytv.png</thumbnail>
-<link>https://raw.githubusercontent.com/rpidemon/Test/master/LiveTV.xml</link>
 
 <name>[B][COLOR greenyellow]Music[/COLOR][/B]</name>
 <thumbnail>http://simonwebsterhair.com/wp-content/uploads/2014/05/fest8.jpg</thumbnail>
