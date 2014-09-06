@@ -26,8 +26,8 @@ MAIN
 
 <name>[COLOR lightgoldenrodyellow][B]Live TV[/B][/COLOR]</name>
 <thumbnail>http://www.gielniak.com/img/mytv.png</thumbnail>
-<link>https://raw.githubusercontent.com/rpidemon/Test/master/TV.xml</link>
+<link>https://raw.githubusercontent.com/rpidemon/Test/master/LiveTV.xml</link>
 
-<name>[B][COLOR lightred]Music[/COLOR][/B]</name>
+<name>[B][COLOR greenyellow]Music[/COLOR][/B]</name>
 <thumbnail>http://simonwebsterhair.com/wp-content/uploads/2014/05/fest8.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/rpidemon/Test/master/Music.xml</link>
