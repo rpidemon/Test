@@ -2,7 +2,7 @@
 <fanart>http://www.yell.com/static/image/6f0adc8f-8ccb-4a2d-a4b9-13508ef6ca2e_image_png?t=tr/w:550/h:412/m:FitPad</fanart>
 <thumbnail></thumbnail>
 
-<message>[B][COLOR olivedrab]SKY HD[/COLORS][/B]</message>
+<message>[B][COLOR olivedrab]SKY HD[/COLOR][/B]</message>
 
 <items>
 <title>[B][COLOR royalblue]SKY 1[/COLOR][/B]</title>
@@ -13,7 +13,7 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_2.png</thumbnail>
 <link>http://acabsw.doiptv.com/sky_2/playlist.m3u8</link>
 
-<title>[B][COLOR royalblue]SKY Atlantic[/COLOR[/B]</title>
+<title>[B][COLOR royalblue]SKY Atlantic[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_atlantic_hd.png</thumbnail>
 <link>http://acabsw.doiptv.com/sky_atlantic/playlist.m3u8</link>
 
