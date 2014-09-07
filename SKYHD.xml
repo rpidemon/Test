@@ -147,8 +147,6 @@
 </link>
 </item>
 
-<message>[B][COLOR lightgreen]*-*-*-*-*24/7 TV Shows*-*-*-*-*[/COLOR][/B]</mesaage>
-
 <items>
 <title>[B][COLOR yellow]THE SIMPSONS 24/7[/COLOR][/B]</title>
 <thumbnail>http://cdn.hitfix.com/photos/148718/the_simpsons_event_main.jpg</thumbnail>
@@ -339,5 +337,53 @@
 <title>[B][COLOR white]Sky Sports 5[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
 <link>rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430</link>
+
+</items>
+
+<items>
+
+<title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
+<thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
+<link>http://iptv4.me:4321/btsport1</link>
+
+<title>[B][COLOR red]BT Sport 2[/COLOR][/B]</title>
+<thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
+<link>http://iptv4.me:4321/btsport2</link>
+
+<title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/180px-BoxNation_logo.jpg</thumbnail>
+<link>rtmp://89.248.171.97:443/liverepeater playpath=38 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=38&width=640&height=460 token=#atd%#$ZH</link>
+
+<title>[B][COLOR blue]Racing UK[/COLOR][/B]</title>
+<thumbnail>http://www.greatyarmouth-racecourse.co.uk/_images/racinghome/ATR-logo.jpg</thumbnail>
+<link>rtmp://89.248.171.97:443/liverepeater playpath=7 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=36&width=640&height=460 token=#atd%#$ZH</link>
+
+<title>[B][COLOR red]MUTV[/COLOR][/B]</title>
+<thumbnail>http://b.vimeocdn.com/ts/171/577/171577559_640.jpg</thumbnail>
+<link>http://tv.brownbeartech.co.uk:8001/1:0:1:2BD:7:F020:FFFF0000:0:0:0:</link>
+
+<title>[B][COLOR white]EuroSport HD[/COLOR][/B]</title>
+<thumbnail>http://files.bcpraha.sk/200002042-3634138280/500px-Eurosport_HD.png</thumbnail>
+<link>rtmp://31.220.0.104:1935/live/eurs1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</link>
+
+<title>[B][COLOR blue]EuroSport 2 HD[COLOR][/B]</title>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20101221230021/logopedia/images/thumb/4/4e/Eurosport_2_HD.png/320px-Eurosport_2_HD.png</thumbnail>
+<link>rtmp://31.220.0.82:1935/live playpath=e2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+
+<title>[B][COLOR orange]FOX Sports 1[/COLOR][/B]</title>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/07/fox-sports-1-logo.jpg</thumbnail>
+<link>rtmpe://209.95.34.62:1935/live playpath=sfox1 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
+
+<title>[B][COLOR orange]FOX Sports 2[/COLOR][/B]</title>
+<thumbnail>http://auvaromaia.com/wp-content/uploads/2014/01/foxsports21.jpg</thumbnail>
+<link>rtmpe://209.95.34.62:1935/live playpath=sfox2 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
+
+<title>[B][COLOR darkorchid]BEIN Sports 11[/COLOR][/B]</title>
+<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
+<link>rtmpe://209.95.34.60:1935/live playpath=jsc12 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
+
+<title>[B][COLOR darkorchid]BEIN Sports 12[/COLOR][/B]</title>
+<thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
+<link>rtmp://89.248.171.97:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=32&width=640&height=460 token=#atd%#$ZH</link>
 
 </items>
