@@ -147,6 +147,8 @@
 </link>
 </item>
 
+<message>[B][COLOR lawngreen]*-*-*-*-*24/7*-*-*-*-*[/COLOR][/B]</message>
+
 <items>
 <title>[B][COLOR yellow]THE SIMPSONS 24/7[/COLOR][/B]</title>
 <thumbnail>http://cdn.hitfix.com/photos/148718/the_simpsons_event_main.jpg</thumbnail>
@@ -256,7 +258,7 @@
 
 <title>[B][COLOR blue]Sky Sports 1[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>rtmpe://209.95.34.58:1935/live playpath=sskys1 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
+<link>http://acabsw.doiptv.com/sky_sport_1/playlist.m3u8</link>
 
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
@@ -268,7 +270,7 @@
 
 <title>[B][COLOR blue]Sky Sports 2[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>rtmp://31.220.0.104:1935/live/sskk2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri</link>
+<link>http://acabsw.doiptv.com/sky_sport_2/playlist.m3u8</link>
 
 <title>[B][COLOR red]Sky Sports 2[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
@@ -292,7 +294,7 @@
 
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky3&vw=600&vh=430</link>
+<link>http://acabsw.doiptv.com/sky_sport_3/playlist.m3u8</link>
 
 <title>[B][COLOR red]Sky Sports 3[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
@@ -308,7 +310,7 @@
 
 <title>[B][COLOR red]Sky Sports 4[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky4&vw=600&vh=430</link>
+<link>http://acabsw.doiptv.com/sky_sport_4/playlist.m3u8</link>
 
 <title>[B][COLOR white]Sky Sports 4[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
