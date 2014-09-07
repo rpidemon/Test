@@ -108,15 +108,15 @@
 <item>
 <title>[B][COLOR orangered]MTV[/COLOR][/B]</title>
 <thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
-<link>rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream</link>
+<link>http://83.139.104.101/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8</link>
 </item>
 
 <message>[COLOR orange][B]*-*-*-*-*Kids*-*-*-*-*[/B][/COLOR]</message>
 
 <item>
-<title>[B][COLOR green]Disney JNR[/COLOR][/B]</title>
+<title>[B][COLOR green]Disney Channel[/COLOR][/B]</title>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20120829205926/disney/images/4/46/A_Cars_Toon_Disney_Jr.jpg</thumbnail>
-<link>http://iptv4.me:4321/disneyjunior</link>
+<link>http://mobi3.ibrod.tv:1935/ibusa/disney.stream/playlist.m3u8</link>
 </item>
 
 <item><title>Disney XD</title>
@@ -344,11 +344,11 @@
 
 <title>[B][COLOR blue]BT Sport 1[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
-<link>http://iptv4.me:4321/btsport1</link>
+<link>rtmp://31.220.0.195:1935/live playpath=btssk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk1&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR red]BT Sport 2[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
-<link>http://iptv4.me:4321/btsport2</link>
+<link>rtmp://31.220.0.195:1935/live playpath=btssk2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk2&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/180px-BoxNation_logo.jpg</thumbnail>
@@ -360,23 +360,23 @@
 
 <title>[B][COLOR red]MUTV[/COLOR][/B]</title>
 <thumbnail>http://b.vimeocdn.com/ts/171/577/171577559_640.jpg</thumbnail>
-<link>http://tv.brownbeartech.co.uk:8001/1:0:1:2BD:7:F020:FFFF0000:0:0:0:</link>
+<link>rtmp://206.190.140.100:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=30&width=640&height=460 token=#atd%#$ZH</link>
 
 <title>[B][COLOR white]EuroSport HD[/COLOR][/B]</title>
 <thumbnail>http://files.bcpraha.sk/200002042-3634138280/500px-Eurosport_HD.png</thumbnail>
-<link>rtmp://31.220.0.104:1935/live/eurs1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z</link>
+<link>rtmp://31.220.0.103:1935/live playpath=eurs1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=eurs1&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR blue]EuroSport 2 HD[COLOR][/B]</title>
 <thumbnail>http://img3.wikia.nocookie.net/__cb20101221230021/logopedia/images/thumb/4/4e/Eurosport_2_HD.png/320px-Eurosport_2_HD.png</thumbnail>
-<link>rtmp://31.220.0.82:1935/live playpath=e2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+<link></link>
 
 <title>[B][COLOR orange]FOX Sports 1[/COLOR][/B]</title>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/07/fox-sports-1-logo.jpg</thumbnail>
-<link>rtmpe://209.95.34.62:1935/live playpath=sfox1 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
+<link>rtmpe://209.95.34.58:1935/live/fox1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
 
 <title>[B][COLOR orange]FOX Sports 2[/COLOR][/B]</title>
 <thumbnail>http://auvaromaia.com/wp-content/uploads/2014/01/foxsports21.jpg</thumbnail>
-<link>rtmpe://209.95.34.62:1935/live playpath=sfox2 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
+<link>rtmpe://209.95.34.58:1935/live/fox2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
 
 <title>[B][COLOR darkorchid]BEIN Sports 11[/COLOR][/B]</title>
 <thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
