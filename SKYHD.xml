@@ -374,18 +374,21 @@
 
 <title>[B][COLOR orange]FOX Sports 1[/COLOR][/B]</title>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/07/fox-sports-1-logo.jpg</thumbnail>
-<link>rtmpe://209.95.34.58:1935/live/fox1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
+<link><sublink>rtmpe://195.154.230.244:1935/live playpath=sfox1 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</sublink>
+<sublink>rtmp://31.220.0.104:1935/live playpath=fox1x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z</sublink>  
+</link>
 
 <title>[B][COLOR orange]FOX Sports 2[/COLOR][/B]</title>
 <thumbnail>http://auvaromaia.com/wp-content/uploads/2014/01/foxsports21.jpg</thumbnail>
-<link>rtmpe://209.95.34.58:1935/live/fox2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
+<link><sublink>rtmpe://195.154.230.244:1935/live playpath=sfox2 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</sublink>
+<sublink>rtmp://31.220.0.104:1935/live playpath=fox2x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z</sublink></link>
 
 <title>[B][COLOR darkorchid]BEIN Sports 11[/COLOR][/B]</title>
 <thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmpe://209.95.34.60:1935/live playpath=jsc12 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
+<link>rtmp://31.220.0.194:1935/live playpath=bn11 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn11&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 
 <title>[B][COLOR darkorchid]BEIN Sports 12[/COLOR][/B]</title>
 <thumbnail>http://www.pharpartnerships.com/wp-content/uploads/2014/06/bein-sports.jpg</thumbnail>
-<link>rtmp://89.248.171.97:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=32&width=640&height=460 token=#atd%#$ZH</link>
+<link>rtmp://31.220.0.194:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn12&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 
 </items>
