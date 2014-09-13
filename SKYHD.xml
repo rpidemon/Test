@@ -19,11 +19,31 @@
 
 <title>[B][COLOR royalblue]SKY Pick[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pick_tv.jpg</thumbnail>
-<link>http://iptvfannansat.dyndns.tv/vach96525/875465/235.ch</link>
+<link></link>
 
 <title>[B][COLOR royalblue]SKY Living[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_living_hd.png</thumbnail>
 <link>http://acabsw.doiptv.com/sky_living/playlist.m3u8</link>
+
+<title>[B][COLOR royalblue]Sky Premiere[/COLOR][/B]</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_premiere_hd.png</thumbnail>
+<link>rtmpe://46.246.29.160:1935/live/ playpath=premierx swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
+
+<title>[B][COLOR royalblue]Sky Action[/COLOR][/B]</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_de_action.png</thumbnail>
+<link>rtmpe://46.246.29.160:1935/live/ playpath=action swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
+
+<title>[B][COLOR royalblue]Sky Comedy[/COLOR][/B]</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_comedy_hd.png</thumbnail>
+<link>rtmpe://46.246.29.160:1935/live/ playpath=greats swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
+
+<title>[B][COLOR royalblue]Sky Thriller[/COLOR][/B]</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_crime_thriller_hd.png</thumbnail>
+<link>rtmpe://46.246.29.160:1935/live/ playpath=thriller swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
+
+<title>[B][COLOR royalblue]Sky SciFiHorror[/COLOR][/B]</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_scifi_horror_hd.png</thumbnail>
+<link>rtmpe://46.246.29.160:1935/live/ playpath=scifi swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
 
 </items>
 
