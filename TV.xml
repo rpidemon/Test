@@ -282,7 +282,7 @@
 <link>rtmp://31.220.0.195:1935/live playpath=btssk2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk2&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/box_nation.png</thumbnail>
 <link>rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</link>
 
 <title>[B][COLOR chartreuse]Racing UK[/COLOR][/B]</title>
@@ -290,7 +290,7 @@
 <link>rtmp://31.220.0.196:1935/live playpath=kingracing swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=kingracing&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR chartreuse]At The Races[/COLOR][/B]</title>
-<thumbnail></thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/at_the_races.jpg</thumbnail>
 <link>rtmp://31.220.0.194:1935/live playpath=kingratr swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR red]MUTV[/COLOR][/B]</title>
