@@ -180,51 +180,47 @@
 <items>
   
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 <link>rtmp://31.220.0.195:1935/live/ playpath=sskk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sskk1&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 <link>rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430</link>
 
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 <link>rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
 
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 <link>rtmpe://162.219.178.154/live playpath=skysports1fifaembed pageUrl=http://www.dcast.tv/loboicaperucita</link>
 
 <title>[B][COLOR red]Sky Sports 1[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 <link>rtmp://31.220.0.133:1935/live playpath=sskk1 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR white]Sky Sports 2[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 <link>rtmp://31.220.0.195:1935/live/ playpath=sskk2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sskk1&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR white]Sky Sports 2[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 <link>rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky2&vw=600&vh=430</link>
 
 <title>[B][COLOR white]Sky Sports 2[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 <link>rtmp://31.220.0.133:1935/live playpath=sskk2 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR white]Sky Sports 2[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 <link>rtmpe://209.95.34.58:1935/live playpath=sskys2 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
 
-<title>[B][COLOR white]Sky Sports 2[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link>rtmpe://162.219.178.154/live playpath=skysports2fifaembed pageUrl=http://www.dcast.tv/loboicaperucita</link>
-
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
 <link>rtmp://31.220.0.134:1935/live/ playpath=sskk3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sskk1&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
 <link>rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
 
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
@@ -232,43 +228,43 @@
 <link></link>
 
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
 <link>rtmpe://209.95.34.58:1935/live playpath=sskys3 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
 
 <title>[B][COLOR red]Sky Sports 4[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
 <link>rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
 
 <title>[B][COLOR red]Sky Sports 4[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
 <link>rtmp://31.220.0.104:1935/live/ playpath=skks4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sskk1&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR red]Sky Sports 4[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
 <link>rtmpe://209.95.34.58:1935/live playpath=sskys4 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
 
 <title>[B][COLOR red]Sky Sports 4[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
 <link>rtmpe://162.219.178.154/live playpath=skysports4fifaembed pageUrl=http://www.dcast.tv/loboicaperucita</link>
 
 <title>[B][COLOR white]Sky Sports 5[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png</thumbnail>
 <link>rtmp://31.220.0.195:1935/live playpath=sskk5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sskk5&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR white]Sky Sports 5[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png</thumbnail>
 <link>rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
 
 <title>[B][COLOR white]Sky Sports 5[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png</thumbnail>
 <link>rtmpe://162.219.178.154/live playpath=skysports5fifaembed pageUrl=http://www.dcast.tv/loboicaperucita</link>
 
 <title>[B][COLOR white]Sky Sports 5[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png</thumbnail>
 <link>rtmpe://209.95.34.58:1935/live playpath=sskys5 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku</link>
 
 <title>[B][COLOR white]Sky Sports 5[/COLOR][/B]</title>
-<thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png</thumbnail>
 <link>rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430</link>
 
 </items>
@@ -276,17 +272,17 @@
 <items>
 
 <title>[B][COLOR cyan]BT Sport 1[/COLOR][/B]</title>
-<thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
 <link><sublink>rtmp://31.220.0.195:1935/live playpath=btssk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk1&vw=620&vh=490 token=%ZZri(nKa@#Z</sublink>
 <sublink>http://iptv4.me:4321/btsport1</sublink>
 </link>
 
 <title>[B][COLOR cyan]BT Sport 2[/COLOR][/B]</title>
-<thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
 <link>rtmp://31.220.0.195:1935/live playpath=btssk2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk2&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/180px-BoxNation_logo.jpg</thumbnail>
+<thumbnail></thumbnail>
 <link>rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</link>
 
 <title>[B][COLOR chartreuse]Racing UK[/COLOR][/B]</title>
@@ -298,7 +294,7 @@
 <link>rtmp://31.220.0.194:1935/live playpath=kingratr swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z</link>
 
 <title>[B][COLOR red]MUTV[/COLOR][/B]</title>
-<thumbnail>http://b.vimeocdn.com/ts/171/577/171577559_640.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mutv.png</thumbnail>
 <link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chmymutv/2009/08/13/a5fba842-8f2f-4a15-b095-9dfd8ff29b45 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&allowchat=false&showMoreVideos=false&lschannel=true&borderColor=0xCCCCCC&time=&allowChat=true&browseMode=false&showBorderControlBar=false&textLines=2&autoPlay=true&hideChannelBranding=true&iconColor=0x555555&hideInfo=true&t=428531&mode=false pageUrl=http://www.livestream.com/embed/mymutv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=428531</link>
 
 <title>[B][COLOR lime]EuroSport HD[/COLOR][/B]</title>
