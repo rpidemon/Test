@@ -2,10 +2,10 @@
 <fanart>http://www.yell.com/static/image/6f0adc8f-8ccb-4a2d-a4b9-13508ef6ca2e_image_png?t=tr/w:550/h:412/m:FitPad</fanart>
 <thumbnail></thumbnail>
 
-<message>[B][COLOR indianred]*-*-*-*-*Entertainment*-*-*-*-*[/COLOR][/B]</message>
+<message>[B][COLOR lightseagreen]*-*-*-*-*Entertainment*-*-*-*-*[/COLOR][/B]</message>
 
 <items>
-<title>[B][COLOR blue]SKY 1[/COLOR][/B]</title>
+<title>[B][COLOR lawngreen]SKY 1[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_1.png</thumbnail>
 <link>http://acabsw.doiptv.com/sky_1/playlist.m3u8</link>
 
@@ -13,7 +13,7 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_2.png</thumbnail>
 <link>http://acabsw.doiptv.com/sky_2/playlist.m3u8</link>
 
-<title>[B][COLOR blue]SKY Atlantic[/COLOR][/B]</title>
+<title>[B][COLOR lawngreen]SKY Atlantic[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_atlantic_hd.png</thumbnail>
 <link>http://acabsw.doiptv.com/sky_atlantic/playlist.m3u8</link>
 
@@ -21,7 +21,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pick_tv.jpg</thumbnail>
 <link></link>
 
-<title>[B][COLOR blue]SKY Living[/COLOR][/B]</title>
+<title>[B][COLOR lawngreen]SKY Living[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_living_hd.png</thumbnail>
 <link>http://acabsw.doiptv.com/sky_living/playlist.m3u8</link>
 
@@ -29,7 +29,7 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_premiere_hd.png</thumbnail>
 <link>rtmpe://46.246.29.160:1935/live/ playpath=premierx swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
 
-<title>[B][COLOR blue]Sky Action[/COLOR][/B]</title>
+<title>[B][COLOR lawngreen]Sky Action[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_de_action.png</thumbnail>
 <link>rtmpe://46.246.29.160:1935/live/ playpath=action swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
 
@@ -37,7 +37,7 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_comedy_hd.png</thumbnail>
 <link>rtmpe://46.246.29.160:1935/live/ playpath=greats swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
 
-<title>[B][COLOR blue]Sky Thriller[/COLOR][/B]</title>
+<title>[B][COLOR lawngreen]Sky Thriller[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_crime_thriller_hd.png</thumbnail>
 <link>rtmpe://46.246.29.160:1935/live/ playpath=thriller swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
 
@@ -47,7 +47,7 @@
 
 </items>
 
-<message>[COLOR indianred][B]*-*-*-*-*Documentary*-*-*-*-*[/B][/COLOR]</message>
+<message>[COLOR lightseagreen][B]*-*-*-*-*Documentary*-*-*-*-*[/B][/COLOR]</message>
 
 <items>
 
@@ -69,7 +69,7 @@
 
 </items>
 
-<message>[COLOR indianred][B]*-*-*-*-*Music*-*-*-*-*[/B][/COLOR]</message>
+<message>[COLOR lightseagreen][B]*-*-*-*-*Music*-*-*-*-*[/B][/COLOR]</message>
 
 <item>
 <title>[B][COLOR greenyellow]Music Channel HD[/COLOR][/B]</title>
@@ -131,7 +131,7 @@
 <link>http://83.139.104.101/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8</link>
 </item>
 
-<message>[COLOR indianred][B]*-*-*-*-*Kids*-*-*-*-*[/B][/COLOR]</message>
+<message>[COLOR lightseagreen][B]*-*-*-*-*Kids*-*-*-*-*[/B][/COLOR]</message>
 
 <item>
 <title>[B][COLOR green]Disney Channel[/COLOR][/B]</title>
@@ -175,7 +175,7 @@
 </link>
 </item>
 
-<message>[B][COLOR lawngreen]*-*-*-*-*24/7*-*-*-*-*[/COLOR][/B]</message>
+<message>[B][COLOR lightseagreen]*-*-*-*-*24/7*-*-*-*-*[/COLOR][/B]</message>
 
 <items>
 <title>[B][COLOR yellow]THE SIMPSONS 24/7[/COLOR][/B]</title>
@@ -186,7 +186,7 @@
 <thumbnail>http://www.jumpedtheshark.co.uk/wp-content/uploads/2011/08/oz1-300x225.jpg</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=oz02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?oz02</link>
 
-<title>[B][COLOR orange]The X-FILES 24/7[/COLOR][/B]</title>
+<title>[B][COLOR orange]THE X-FILES 24/7[/COLOR][/B]</title>
 <thumbnail>http://bfgb.files.wordpress.com/2013/12/x_files.jpg</thumbnail>
 <link>rtmp://192.99.38.122/app playpath=xfiles02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?xfiles02</link>
 </items>
@@ -218,15 +218,15 @@
 </item>
 
 <items>
-<title>[B][COLOR green]That 70s SHOW[/COLOR][/B]</title> 
+<title>[B][COLOR green]THAT 70s SHOW[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/9225520.png"</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?that70sshow live=true</link>
 
-<title>[B][COLOR orange]The SOPRANOS[/COLOR][/B]</title> 
+<title>[B][COLOR orange]THE SOPRANOS[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/8444104.png</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?sopranos live=true</link>
 
-<title>[B][COLOR yellow]TWO and a HALF MEN[/COLOR][/B]</title> 
+<title>[B][COLOR yellow]TWO AND A HALF MEN[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/6154763.png</thumbnail>
 <link>rtmp://192.99.38.122/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?men02&widthid=600&heightid=450</link>
 
@@ -258,7 +258,7 @@
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/2558536.png</thumbnail>
 <link>rtmp://198.27.75.99/app playpath=malcolm swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?malcolm live=true</link>
 
-<title>[B][COLOR green]SONS of ANARCHY HD[/COLOR][/B]</title> 
+<title>[B][COLOR green]SONS OF ANARCHY HD[/COLOR][/B]</title> 
 <thumbnail>http://www.weebly.com/uploads/3/1/6/0/31603209/3222944.png</thumbnail>
 <link>http://62.210.76.216:8080/hls/soa.m3u8</link>
 
@@ -272,7 +272,7 @@
 
 </items>
 
-<message>[COLOR royalblue][B]*-*-*-*-*Sports*-*-*-*-*[/B][/COLOR]</message>
+<message>[COLOR lightseagreen][B]*-*-*-*-*Sports*-*-*-*-*[/B][/COLOR]</message>
 
 <items>
   
@@ -372,13 +372,13 @@
 
 <items>
 
-<title>[B][COLOR honeydew]BT Sport 1[/COLOR][/B]</title>
+<title>[B][COLOR cyan]BT Sport 1[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
 <link><sublink>rtmp://31.220.0.195:1935/live playpath=btssk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk1&vw=620&vh=490 token=%ZZri(nKa@#Z</sublink>
 <sublink>http://iptv4.me:4321/btsport1</sublink>
 </link>
 
-<title>[B][COLOR honeydew]BT Sport 2[/COLOR][/B]</title>
+<title>[B][COLOR cyan]BT Sport 2[/COLOR][/B]</title>
 <thumbnail>http://www.wellingunited.com/wp/wp-content/uploads/2014/07/BT-Sport.jpg</thumbnail>
 <link>rtmp://31.220.0.195:1935/live playpath=btssk2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk2&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
@@ -386,11 +386,11 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/180px-BoxNation_logo.jpg</thumbnail>
 <link>rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</link>
 
-<title>[B][COLOR gainsboro]Racing UK[/COLOR][/B]</title>
+<title>[B][COLOR chartreuse]Racing UK[/COLOR][/B]</title>
 <thumbnail>http://www.greatyarmouth-racecourse.co.uk/_images/racinghome/ATR-logo.jpg</thumbnail>
 <link>rtmp://31.220.0.196:1935/live playpath=kingracing swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=kingracing&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
-<title>[B][COLOR gainsboro]At The Races[/COLOR][/B]</title>
+<title>[B][COLOR chartreuse]At The Races[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <link>rtmp://31.220.0.194:1935/live playpath=kingratr swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z</link>
 
@@ -402,9 +402,9 @@
 <thumbnail>http://files.bcpraha.sk/200002042-3634138280/500px-Eurosport_HD.png</thumbnail>
 <link>rtmp://31.220.0.103:1935/live playpath=eurs1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=eurs1&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
-<title>[B][COLOR blue]EuroSport 2 HD[COLOR][/B]</title>
+<title>[B][COLOR lime]EuroSport 2 HD[COLOR][/B]</title>
 <thumbnail>http://img3.wikia.nocookie.net/__cb20101221230021/logopedia/images/thumb/4/4e/Eurosport_2_HD.png/320px-Eurosport_2_HD.png</thumbnail>
-<link></link>
+<link>http://149.255.39.122/aasd/8815/index.m3u8</link>
 
 <title>[B][COLOR orange]FOX Sports 1[/COLOR][/B]</title>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/07/fox-sports-1-logo.jpg</thumbnail>
