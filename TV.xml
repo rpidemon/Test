@@ -19,7 +19,7 @@
 
 <title>[B][COLOR royalblue]SKY Pick[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pick_tv.jpg</thumbnail>
-<link></link>
+<link>http://iptvfannansat.dyndns.tv/vach96525/875465/235.ch</link>
 
 <title>[B][COLOR lawngreen]SKY Living[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_living_hd.png</thumbnail>
@@ -55,15 +55,15 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_us_hd.png</thumbnail>
 <link>http://80.77.52.6:4022/udp/230.0.3.18:12345</link>
 
-<title>[B][COLOR royalblue]Discovery HD[/COLOR][/B]</title>
+<title>[B][COLOR salmon]Discovery HD[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_international.png</thumbnail>
 <link>http://80.77.52.6:4022/udp/230.0.3.17:12345</link>
 
-<title>[B][COLOR salmon]NatGeo HD[/COLOR][/B]</title>
+<title>[B][COLOR darkgreen]NatGeo HD[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail>
 <link>http://61.93.247.210:80/hls/natgeo/natgeo.m3u8</link>
 
-<title>[B][COLOR honeydew]BIO[/COLOR][/B]</title>
+<title>[B][COLOR salmon]BIO[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/biography_uk.jpg</thumbnail>
 <link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c</link>
 
@@ -134,24 +134,24 @@
 <message>[COLOR lightseagreen][B]*-*-*-*-*Kids*-*-*-*-*[/B][/COLOR]</message>
 
 <item>
-<title>[B][COLOR green]Disney Channel[/COLOR][/B]</title>
+<title>[B][COLOR orange]Disney Channel[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global.png</thumbnail>
 <link>http://mobi3.ibrod.tv:1935/ibusa/disney.stream/playlist.m3u8</link>
 </item>
 
-<item><title>[B][COLOR khaki]Disney XD[/COLOR][/B]</title>
+<item><title>[B][COLOR lime]Disney XD[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_xd_us.png</thumbnail>
 <link>http://iptv4.me:4321/disneych1</link>
 </item>
 
 <item>
-<title>[COLOR lightblue][B]Boomerang[/B][/COLOR]</title>
+<title>[COLOR orange][B]Boomerang[/B][/COLOR]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/boomerang_global.png</thumbnail>
 <link>http://77.90.73.1:4022/udp/233.136.41.7:1234</link>
 </item>
 
 <item>
-<title>[B][COLOR azure]Cartoonito[/COLOR][/B]</title>
+<title>[B][COLOR lime]Cartoonito[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cartoonito_uk.png</thumbnail>
 <link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b</link>
  </item>
@@ -169,7 +169,7 @@
 <title>[B][COLOR lime]Cartoon Network[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cartoon_network_global.png</thumbnail>
 <link>
-<sublink>http://80.77.52.6:4022/udp/230.0.3.15:12345</sublink>
+<sublink>http://80.77.52.6:4022/udp/230.0.3.45:12345</sublink>
 <sublink>http://mobi3.ibrod.tv:1935/ibusa/cn.stream/playlist.m3u8</sublink>
 <sublink>http://61.93.247.210:80/hls/cartoon/cartoon.m3u8</sublink>  
 </link>
