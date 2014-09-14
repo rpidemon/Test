@@ -103,31 +103,31 @@
 
 <item>
 <title>[B][COLOR yellow]NOW Thats What I Call Music TV[/COLOR][/B]</title>
-<thumbnail>http://www.billboard.com/files/styles/promo_650/public/stylus/69649-now_logo_01l.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/now_thats_what_i_call_music_uk.png</thumbnail>
 <link>http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
 </item>
 
 <item>
 <title>[B][COLOR orange]Vevo Music[/COLOR][/B]</title>
-<thumbnail>http://ronnydaemusic.com/wp-content/uploads/2014/06/VEVO.jpg</thumbnail>
+<thumbnail></thumbnail>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
 </item>
 
 <item>
 <title>[B][COLOR red]Heart TV[/COLOR][/B]</title>
-<thumbnail>http://2.bp.blogspot.com/-YwkwA92Knx0/U2rb6XeiAKI/AAAAAAAABHg/jqBRofEBqvo/s1600/Heart+Tv.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/heart_tv_uk.png</thumbnail>
 <link>rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Heart</link>
 </item>
 
 <item>
 <title>[B][COLOR blue]Clubland TV[/COLOR][/B]</title>
-<thumbnail>http://www.creativespark.co.uk/wp-content/uploads/Clubland_TV_Identity_06-940x664.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/clubland_tv_uk.png</thumbnail>
 <link>http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
 </item>
 
 <item>
 <title>[B][COLOR orangered]MTV[/COLOR][/B]</title>
-<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_us.png</thumbnail>
 <link>http://83.139.104.101/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8</link>
 </item>
 
@@ -135,19 +135,19 @@
 
 <item>
 <title>[B][COLOR green]Disney Channel[/COLOR][/B]</title>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20120829205926/disney/images/4/46/A_Cars_Toon_Disney_Jr.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global.png</thumbnail>
 <link>http://mobi3.ibrod.tv:1935/ibusa/disney.stream/playlist.m3u8</link>
 </item>
 
 <item><title>[B][COLOR khaki]Disney XD[/COLOR][/B]</title>
-<thumbnail>http://www.disneymovieslist.com/blog/wp-content/uploads/2012/10/disneyxd.jpeg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_xd_us.png</thumbnail>
 <link>http://iptv4.me:4321/disneych1</link>
 </item>
 
 <item>
 <title>[COLOR lightblue][B]Boomerang[/B][/COLOR]</title>
-<thumbnail>http://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/boomerang_us_left_logo.jpg</thumbnail>
-<link>http://95.155.243.245:8001/1:0:1:F0A:17:56:300000:0:0:0:</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/boomerang_global.png</thumbnail>
+<link>http://77.90.73.1:4022/udp/233.136.41.7:1234</link>
 </item>
 
 <item>
@@ -158,7 +158,7 @@
 
 <item>
 <title>[COLOR orange][B]Nickelodeon[/B][/COLOR]</title>
-<thumbnail>http://id-cube.com/wp-content/uploads/2013/12/nickelodeon-logo-226464.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_us.png</thumbnail>
 <link><sublink>http://91.240.87.34:4015/udp/224.200.202.40:1234</sublink>
 <sublink>rtmpe://94.102.49.188/live playpath=nickusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z</sublink>  
 <sublink>http://77.243.187.53:8844/udp/239.102.0.121:3001</sublink>
@@ -167,7 +167,7 @@
 
 <item>
 <title>[B][COLOR lime]Cartoon Network[/COLOR][/B]</title>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20130504100830/marvel_dc/images/8/8d/Cartoon_Network_logo.JPG</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cartoon_network_global.png</thumbnail>
 <link>
 <sublink>http://80.77.52.6:4022/udp/230.0.3.15:12345</sublink>
 <sublink>http://mobi3.ibrod.tv:1935/ibusa/cn.stream/playlist.m3u8</sublink>
