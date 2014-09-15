@@ -15,11 +15,11 @@
 
 <title>[B][COLOR lawngreen]SKY Atlantic[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_atlantic_hd.png</thumbnail>
-<link>http://acabsw.doiptv.com/sky_atlantic/playlist.m3u8</link>
+<link>http://92.234.12.46:8001/1:0:1:1268:7EE:2:11A0000:0:0:0:</link>
 
-<title>[B][COLOR royalblue]SKY Pick[/COLOR][/B]</title>
+<title>[B][COLOR royalblue]SKY Arts[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pick_tv.jpg</thumbnail>
-<link>http://iptvfannansat.dyndns.tv/vach96525/875465/235.ch</link>
+<link>http://92.234.12.46:8001/1:0:1:11FC:7EE:2:11A0000:0:0:0:</link>
 
 <title>[B][COLOR lawngreen]SKY Living[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_living_hd.png</thumbnail>
@@ -41,7 +41,7 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_crime_thriller_hd.png</thumbnail>
 <link>rtmpe://46.246.29.160:1935/live/ playpath=thriller swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
 
-<title>[B][COLOR royalblue]Sky SciFiHorror[/COLOR][/B]</title>
+<title>[B][COLOR royalblue]Sky SciFi/Horror[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_scifi_horror_hd.png</thumbnail>
 <link>rtmpe://46.246.29.160:1935/live/ playpath=scifi swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15</link>
 
@@ -72,7 +72,7 @@
 <message>[COLOR lightseagreen][B]*-*-*-*-*Music*-*-*-*-*[/B][/COLOR]</message>
 
 <item>
-<title>[B][COLOR greenyellow]Music Channel HD[/COLOR][/B]</title>
+<title>[B][COLOR olivedrab]Music Channel HD[/COLOR][/B]</title>
 <thumbnail>http://www.thematv.com/logos/cmusic_hd.png</thumbnail>
 <link>rtmp://109.239.142.62/live/livestream3</link>
 </item>
@@ -90,43 +90,43 @@
 </item>
 
 <item>
-<title>[B][COLOR cyan]Capital TV[/COLOR][/B]</title>
+<title>[B][COLOR chartreuse]Capital TV[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/capital_tv_uk.png</thumbnail>
 <link>rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital</link>
 </item>
 
 <item>
-<title>[B][COLOR pink]KISS[/COLOR][/B]</title>
+<title>[B][COLOR olivedrab]KISS[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/kiss_uk.png</thumbnail>
 <link>http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8</link>
 </item>
 
 <item>
-<title>[B][COLOR yellow]NOW Thats What I Call Music TV[/COLOR][/B]</title>
+<title>[B][COLOR chartreuse]NOW Thats What I Call Music TV[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/now_thats_what_i_call_music_uk.png</thumbnail>
 <link>http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
 </item>
 
 <item>
-<title>[B][COLOR orange]Vevo Music[/COLOR][/B]</title>
+<title>[B][COLOR olivedrab]Vevo Music[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
 </item>
 
 <item>
-<title>[B][COLOR red]Heart TV[/COLOR][/B]</title>
+<title>[B][COLOR chartreuse]Heart TV[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/heart_tv_uk.png</thumbnail>
 <link>rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Heart</link>
 </item>
 
 <item>
-<title>[B][COLOR blue]Clubland TV[/COLOR][/B]</title>
+<title>[B][COLOR olivedrab]Clubland TV[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/clubland_tv_uk.png</thumbnail>
 <link>http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
 </item>
 
 <item>
-<title>[B][COLOR orangered]MTV[/COLOR][/B]</title>
+<title>[B][COLOR chartreuse]MTV[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_us.png</thumbnail>
 <link>http://83.139.104.101/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8</link>
 </item>
@@ -159,17 +159,13 @@
 <item>
 <title>[COLOR orange][B]Nickelodeon[/B][/COLOR]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_us.png</thumbnail>
-<link><sublink>http://91.240.87.34:4015/udp/224.200.202.40:1234</sublink>
-<sublink>rtmpe://94.102.49.188/live playpath=nickusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z</sublink>  
-<sublink>http://77.243.187.53:8844/udp/239.102.0.121:3001</sublink>
-</link>
+<link>http://80.77.52.6:4022/udp/230.0.3.45:12345</link>
 </item>
 
 <item>
 <title>[B][COLOR lime]Cartoon Network[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cartoon_network_global.png</thumbnail>
 <link>
-<sublink>http://80.77.52.6:4022/udp/230.0.3.45:12345</sublink>
 <sublink>http://mobi3.ibrod.tv:1935/ibusa/cn.stream/playlist.m3u8</sublink>
 <sublink>http://61.93.247.210:80/hls/cartoon/cartoon.m3u8</sublink>  
 </link>
@@ -225,7 +221,7 @@
 
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
 <thumbnail>http://dodgethedish.com/wp-content/uploads/2013/08/sky-sports-channels-hd.jpg</thumbnail>
-<link></link>
+<link>rtmpe://46.246.124.28:1935/live/ playpath=sskys3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</link>
 
 <title>[B][COLOR blue]Sky Sports 3[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
@@ -271,17 +267,18 @@
 
 <items>
 
-<title>[B][COLOR cyan]BT Sport 1[/COLOR][/B]</title>
+<title>[B][COLOR hotpink]BT Sport 1[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
 <link><sublink>rtmp://31.220.0.195:1935/live playpath=btssk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk1&vw=620&vh=490 token=%ZZri(nKa@#Z</sublink>
 <sublink>http://iptv4.me:4321/btsport1</sublink>
+<sublink>rtmp://176.31.127.184/live/BTSPORT1HD?code=5465456000657487</sublink>
 </link>
 
-<title>[B][COLOR cyan]BT Sport 2[/COLOR][/B]</title>
+<title>[B][COLOR hotpink]BT Sport 2[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
 <link>rtmp://31.220.0.195:1935/live playpath=btssk2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk2&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 
-<title>[B][COLOR white]BoxNation[/COLOR][/B]</title>
+<title>[B][COLOR cyan]BoxNation[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/box_nation.png</thumbnail>
 <link>rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</link>
 
