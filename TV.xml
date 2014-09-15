@@ -159,7 +159,9 @@
 <item>
 <title>[COLOR orange][B]Nickelodeon[/B][/COLOR]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_us.png</thumbnail>
-<link>http://80.77.52.6:4022/udp/230.0.3.45:12345</link>
+<link><sublink>http://80.77.52.6:4022/udp/230.0.3.45:12345</sublink>
+<sublink>sop://broker.sopcast.com:3912/149266</sublink>
+</link>
 </item>
 
 <item>
