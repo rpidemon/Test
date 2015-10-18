@@ -5,6 +5,10 @@
 <message>[B][COLOR lightseagreen]*-*-*-*-*Entertainment*-*-*-*-*[/COLOR][/B]</message>
 
 <items>
+<title>PDC European Grand Prix 2015</Title>
+<thumbnail></thumbnail>
+<link>Artmp://88.221.87.38:1935/live?_fcs_vhost=cp82434</link>
+
 <title>[B][COLOR lawngreen]SKY 1[/COLOR][/B]</title>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_1.png</thumbnail>
 <link>http://acabsw.doiptv.com/sky_1/playlist.m3u8</link>
